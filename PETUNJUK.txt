@@ -1,0 +1,34 @@
+PRESENTASI MANAJEMEN KINERJA ORGANISASI KPKNL BIAK
+15 slide untuk pembinaan 13 Oktober 2026.
+
+CARA MEMBUKA
+Buka index.html di Microsoft Edge atau Google Chrome. Tidak perlu instalasi atau internet untuk menampilkan presentasi. Pastikan styles.css dan script.js tetap dalam folder yang sama.
+Versi satu file HTML juga disediakan secara terpisah dan dapat langsung dibuka atau dipindahkan.
+
+KONTROL
+Panah kiri/kanan, Page Up/Page Down, atau Spasi: navigasi.
+Home/End: slide pertama/terakhir.
+F: layar penuh. F11 dapat dipakai sebagai alternatif dari browser.
+G: daftar slide. N: catatan pemateri. S: sumber. Esc: tutup dialog.
+Cetak / PDF: cetak semua 15 slide. Aktifkan Background graphics/Grafik latar belakang dan nonaktifkan header/footer browser agar warna sesuai.
+
+INTERAKSI
+Slide 3: pilih tahap siklus.
+Slide 4: tampilkan semua pokok atau perubahan saja.
+Slide 5: geser nilai untuk ilustrasi K3 per IKU, bukan NKO seluruh kantor.
+Slide 14: kuis diskusi.
+Slide 15: checklist persiapan tersimpan lokal pada browser jika diizinkan. Reset untuk sesi baru.
+
+ISI DAN SUMBER
+Fokus pada organisasi, tanpa materi penilaian pegawai.
+KMK 127 Tahun 2026 diverifikasi dari naskah resmi DJPb Kementerian Keuangan dan dibandingkan dengan KMK 300/KMK.01/2022.
+Rencana aksi menggunakan sheet Bagian IV dari dua workbook pada folder sumber.
+Sumber halaman dan rentang sel tersedia di tiap slide dan catatan pemateri.
+Isian contoh, perbedaan angka dan uraian, tanggal masa depan, serta isian kosong tidak diperlakukan sebagai temuan final.
+Tenggat resmi workbook dibedakan dari usulan target kerja internal. Sesuaikan PIC dengan penugasan formal unit.
+Tautan naskah resmi memerlukan internet. Presentasi dan seluruh interaksinya berjalan offline.
+
+PENYUNTINGAN
+index.html: kerangka halaman.
+styles.css: tampilan.
+script.js: isi 15 slide, catatan, sumber, dan interaksi.

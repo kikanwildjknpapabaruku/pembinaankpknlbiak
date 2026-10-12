@@ -1,0 +1,10 @@
+.work/
+node_modules/
+*.xlsx
+*.xls
+*.pdf
+*.zip
+Thumbs.db
+.DS_Store
+.env
+.env.*
